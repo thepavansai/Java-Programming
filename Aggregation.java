@@ -19,7 +19,7 @@ class Person{
         System.out.println("SSN : "+ssn+"\tName : "+name+"\nCity : "+address.city+"\tState : "+address.state+"\tCountry : "+address.country);
     }
 }
-public class Aggregstion {
+public class Aggregation {
     public static void main(String [] pavan){
         Address a= new Address("Los Vegas","Los Angeles","United States");
         Person p= new Person(6969,"Man of Steel",a);
