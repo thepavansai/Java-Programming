@@ -17,4 +17,5 @@ public class pkgacess {
 // pkg ->import -> class
 /*
     subpackage -> package inside package
+    static import no need to qualify by the class name
  */
