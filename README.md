@@ -1,2 +1,4 @@
 # Java-Programming
-Some of the java programming codes
+
+
+implementation of the Object Oriented Programming and java concepts
